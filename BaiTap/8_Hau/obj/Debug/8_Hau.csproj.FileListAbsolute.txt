@@ -1,0 +1,7 @@
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\8_Hau\bin\Debug\8_Hau.exe.config
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\8_Hau\bin\Debug\8_Hau.exe
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\8_Hau\bin\Debug\8_Hau.pdb
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\8_Hau\obj\Debug\8_Hau.csproj.AssemblyReference.cache
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\8_Hau\obj\Debug\8_Hau.csproj.CoreCompileInputs.cache
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\8_Hau\obj\Debug\8_Hau.exe
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\8_Hau\obj\Debug\8_Hau.pdb

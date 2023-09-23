@@ -1,0 +1,7 @@
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\MaDiTuan\bin\Debug\MaDiTuan.exe.config
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\MaDiTuan\bin\Debug\MaDiTuan.exe
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\MaDiTuan\bin\Debug\MaDiTuan.pdb
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\MaDiTuan\obj\Debug\MaDiTuan.csproj.AssemblyReference.cache
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\MaDiTuan\obj\Debug\MaDiTuan.csproj.CoreCompileInputs.cache
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\MaDiTuan\obj\Debug\MaDiTuan.exe
+E:\Nam_3_2023_2024\TriTueNhanTao\MaDiTuan\BaiTap\MaDiTuan\obj\Debug\MaDiTuan.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaDiTuan", "MaDiTuan\MaDiTuan.csproj", "{5194EC4E-5C15-4690-A78A-F39E5649ACAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Hau", "8_Hau\8_Hau.csproj", "{E1CE910C-444E-468C-861D-567006192DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5194EC4E-5C15-4690-A78A-F39E5649ACAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5194EC4E-5C15-4690-A78A-F39E5649ACAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5194EC4E-5C15-4690-A78A-F39E5649ACAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5194EC4E-5C15-4690-A78A-F39E5649ACAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1CE910C-444E-468C-861D-567006192DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CE910C-444E-468C-861D-567006192DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CE910C-444E-468C-861D-567006192DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CE910C-444E-468C-861D-567006192DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BDA3424-63F5-41F8-B0D0-9519B2BF790A}
+	EndGlobalSection
+EndGlobal
